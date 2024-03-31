@@ -2,6 +2,7 @@
 
 A mobile VR escape room game for Google Cardboard VR developed using Unity.  
 
+## Gameplay and game mechanics
 The game is envisioned as an escape room where the player explores the dungeon and tries to get to the end and find the golden goblet.  
 The dungeon is filled with many challenges that the player has to overcome to advance, such as: unlocking doors, opening chests, pulling levers etc.  
 There are also various items in the dungeon that the player needs to collect in order to progress further, e.g. the key that unlocks the door.  
@@ -24,6 +25,7 @@ Sound effects and background music have also been added to increase realism and 
 Sound effects exist for opening doors, pulling levers, picking up items, opening chests, making potions, etc.  
 Background music is present all the time during the game.  
 
+Time is measured from the start of the game and is displayed to the player once they pick up the golden goblet at the end.    
 | ![game over menu](https://github.com/DaniloBulatovic/Dungeon-Quest/assets/93370954/3043891b-ad41-4430-8e80-1ca5877c3554) |
 |:---:|
 |Game over menu in the game|
