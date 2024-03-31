@@ -6,7 +6,9 @@ The game is envisioned as an escape room where the player explores the dungeon a
 The dungeon is filled with many challenges that the player has to overcome to advance, such as: unlocking doors, opening chests, pulling levers etc.  
 There are also various items in the dungeon that the player needs to collect in order to progress further, e.g. the key that unlocks the door.  
 
-[![Dungeon Quest Walkthrough Video](https://img.youtube.com/vi/jOOi5HY7aOc/0.jpg)](https://youtu.be/jOOi5HY7aOc)  
+| [![Dungeon Quest Walkthrough Video](https://img.youtube.com/vi/jOOi5HY7aOc/maxresdefault.jpg)](https://youtu.be/jOOi5HY7aOc) |
+| :---: |
+| Dungeon Quest Walkthrough Video |
 
 Movement through the dungeon is possible using teleportation or looking at the floor in the desired direction of movement.  
 There are green panels on the floors of the dungeon that serve as teleporters.  
