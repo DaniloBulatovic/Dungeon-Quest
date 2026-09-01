@@ -1,6 +1,6 @@
 # Dungeon Quest
 
-A mobile VR escape room game for Google Cardboard VR developed using Unity.  
+A mobile virtual reality escape room game for Google Cardboard VR developed using Unity.  
 
 ## Gameplay and game mechanics
 The game is envisioned as an escape room where the player explores the dungeon and tries to get to the end and find the golden goblet.  
